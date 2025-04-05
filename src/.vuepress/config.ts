@@ -64,6 +64,23 @@ export default defineUserConfig({
       },
     }
   }),  
+
+  head: [
+    // 添加一段脚本
+    [
+      "script",
+      {},
+      `\
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?e210c6bc5a108d13861157c8e94333d3";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `
+    ],
+  ],
   // Enable it with pwa
   // shouldPrefetch: false,
 });
