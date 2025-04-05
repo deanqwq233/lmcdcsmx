@@ -1,0 +1,20 @@
+// 黑幕样式
+.heimu {
+  background-color: #252525;
+  color: #252525;
+  transition: color 0.3s ease;
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    color: white !important;
+  }
+
+  // 处理链接样式
+  a {
+    color: inherit;
+    &:hover {
+      color: lightblue !important;
+    }
+  }
+}// place your custom styles here

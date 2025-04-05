@@ -1,0 +1,16 @@
+// you can change colors here
+$theme-color: #26466c;
+
+// 自定义剧透容器
+div.spoiler-container {
+  background: rgba(0,0,0,0.8);
+  color: transparent;
+  border-radius: 8px;
+  padding: 1rem;
+  transition: all 0.3s;
+
+  &:hover {
+    color: white;
+    background: rgba(0,0,0,0.5);
+  }
+}
