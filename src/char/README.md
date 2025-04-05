@@ -7,3 +7,4 @@ category: "角色介绍"
 
 - [李沐晨](limuchen.md)
 - [瑶光](yaoguang.md)
+- [金天](jintian.md)
