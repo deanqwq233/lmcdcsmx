@@ -26,11 +26,10 @@ footer: 李沐晨的赤石冒险
 
 遇到任何问题或发现错误请通过邮箱contact@deanqwq233.top联系作者们，永远感谢您的反馈！
 
-特别鸣谢：Suwer Flow、瑶光、NAUY、嘉木、嘎、化学化学、Artist、yyl、Mo。
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">李沐晨的赤石冒险</span> by <span property="cc:attributionName">包括但不限于Suwer Flow、瑶光、NAUY、嘉木、嘎、化学化学、Artist、yyl、Mo</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 :::
 
-本作遵循CC BY-NC-ND 4.0协议，以下为大众可读版协议内容。
-
+:::details 大众可读版协议的具体内容
 ### 署名—非商业性使用—禁止演绎 4.0 协议国际版 Deed
 
 #### 您可以自由地：
@@ -54,3 +53,4 @@ footer: 李沐晨的赤石冒险
 您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的*例外或限制*所允许。
 
 不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如*形象权、隐私权或人格权*可能限制您如何使用作品。
+:::
