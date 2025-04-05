@@ -26,6 +26,8 @@ footer: 李沐晨的赤石冒险
 
 遇到任何问题或发现错误请通过邮箱contact@deanqwq233.top联系作者们，永远感谢您的反馈！
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89411db8-266f-4219-ba3f-c2e0be673b77/deploy-status)](https://app.netlify.com/sites/lmcdcsmx/deploys)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">李沐晨的赤石冒险</span> by <span property="cc:attributionName">包括但不限于Suwer Flow、瑶光、NAUY、嘉木、嘎、化学化学、Artist、yyl、Mo</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 :::
 
