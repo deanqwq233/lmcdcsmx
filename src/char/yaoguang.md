@@ -1,9 +1,9 @@
 ---
-title: 瑶光
+title: 「朝霞魔女」
 icon: 
 ---
 瑶光，就目前来看鬼鬼祟祟的一个女生，不知道会捅出来什么样的篓子。
 
-:::details 瑶光
-![瑶光](./yaoguang.jpeg)
+:::details 「朝霞魔女」
+![「朝霞魔女」](./yaoguang.jpeg)
 :::
